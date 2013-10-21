@@ -1,2 +1,5 @@
 ## ignore everything but the files specifically tracked
 **
+
+!.vimrc
+!.vim/
